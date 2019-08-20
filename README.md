@@ -1,6 +1,9 @@
+## Dependência
+  - Executar o projeto datasus-view-api (backend desta aplicação)
+
 ## Stack
   - Angular 6
-  - Docker 
+  - Docker version 18.09.3
 
 ## Executando a aplicação
 `obs: necessário instalação do Docker - https://www.docker.com/`
@@ -10,3 +13,6 @@
   
   $ docker run -d -p 4200:80 datasus-view
 ```
+## Acessando a Aplicação
+  - acesse: http://localhost:4200
+
