@@ -15,4 +15,6 @@
 ```
 ## Acessando a Aplicação
   - acesse: http://localhost:4200
+  - usuario: diego
+  - senha: 12345
 
